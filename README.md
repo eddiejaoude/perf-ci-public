@@ -2,3 +2,9 @@
 
 PerfCI - Build Measure Learn (BML) - docs &amp; issues are public
 
+*Note: Code is private*
+
+---
+
+Use ySlow in your CI build (for example with Phantomjs or Selenium) & your results will get beacon to our service, where we will monitor your `Page Load Time` & `Page Size`.
+
