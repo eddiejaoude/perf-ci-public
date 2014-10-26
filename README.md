@@ -12,9 +12,19 @@ Use ySlow in your CI build (for example with Phantomjs or Selenium) & your resul
 
 | Badge | Description |
 | ----- | ----------- |
-| ![ySlow](docs/images/yslow-green.png "ySlow") | ySlow rating (above 80%) |
+| ![ySlow](docs/images/yslow-green.png "ySlow") | ySlow rating |
 | ![download time](docs/images/downloadtime-orange.png "Download Time") | Download Time |
 | ![page size](docs/images/pagesize-red.png "Page Size") | Page size |
+
+---
+
+### Default SLAs
+
+| Type | Green | Orange | Red |
+| ---- | ----- | ------ | --- |
+| ySlow | 80-100% | 40-80% | 0-40% |
+| Download Time | <1s | 1-3s | 3s+ |
+| Page Size | <100kb | 100-200kb | 200kb+ |
 
 ---
 
@@ -26,6 +36,7 @@ Use ySlow in your CI build (for example with Phantomjs or Selenium) & your resul
 
 ### Future Features
 
+* Custom SLAs
 * Alerting
 * Private Projects
 
