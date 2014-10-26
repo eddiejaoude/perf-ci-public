@@ -35,3 +35,9 @@ Use ySlow in your CI build (for example with Phantomjs or Selenium) & your resul
 
 * PhantomJS with ySlow http://yslow.org/phantomjs/
 * Selenium with Firefox & ySlow plugin
+
+---
+
+### Ideas / Features
+
+For any ideas & feature requests please log it in the issue section https://github.com/eddiejaoude/perf-ci-public/issues 
