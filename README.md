@@ -12,9 +12,9 @@ Use ySlow in your CI build (for example with Phantomjs or Selenium) & your resul
 
 | Badge | Description |
 | ----- | ----------- |
-| ![ySlow][docs/images/yslow-green.png] | ySlow rating (above 80%) |
-| ![download time][docs/images/downloadtime-orange.png] | Download Time |
-| ![page size][docs/images/pagesize-red.png] | Page size |
+| ![ySlow](docs/images/yslow-green.png "ySlow") | ySlow rating (above 80%) |
+| ![download time](docs/images/downloadtime-orange.png "Download Time") | Download Time |
+| ![page size](docs/images/pagesize-red.png "Page Size") | Page size |
 
 ---
 
