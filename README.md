@@ -26,6 +26,8 @@ Use ySlow in your CI build (for example with Phantomjs or Selenium) & your resul
 | Download Time | <1s | 1-3s | 3s+ |
 | Page Size | <100kb | 100-200kb | 200kb+ |
 
+*Subject to change*
+
 ---
 
 ### Current Features
@@ -36,7 +38,7 @@ Use ySlow in your CI build (for example with Phantomjs or Selenium) & your resul
 
 ### Future Features
 
-* Custom SLAs
+* Customisable SLAs
 * Alerting
 * Private Projects
 
